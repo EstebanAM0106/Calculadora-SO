@@ -1,4 +1,5 @@
 /* Aqui va el codigo de la calculadora*/
+#include <stdio.h>
 
 int main ();{
 
